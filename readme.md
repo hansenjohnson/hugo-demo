@@ -30,7 +30,7 @@ hugo new site hugo-demo
 ```
 
 ### Step 3: Choose a theme
-Choose a theme (online)[https://themes.gohugo.io/], and add it to your site. The easiest way to do this is to:
+Choose a theme [online](https://themes.gohugo.io/), and add it to your site. The easiest way to do this is to:
 1. find the theme
 2. click download to link to the theme GitHub page
 3. click clone and copy the theme url to your clipboard
@@ -56,7 +56,7 @@ hugo server -D
 This will print a bunch of information to the terminal. Grab the line that looks like `http://localhost:1313/`, paste that into your favourite browser, and check out your new webpage!
 
 ### Step 6: Customize your site
-Most of the standard customization happens in the `config.toml` file. There is a lot of information available (here)[https://gohugo.io/themes/theme-components/] and in the documentation links listed in the previous section.
+Most of the standard customization happens in the `config.toml` file. There is a lot of information available [here](https://gohugo.io/themes/theme-components/) and in the documentation links listed in the previous section.
 
 ### Step 7: Host your site on GitHub
 
