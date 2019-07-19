@@ -6,4 +6,4 @@ draft: false
 
 Whatever content you want:
 
-(google)[https://google.com/]
+[google](https://google.com/)
