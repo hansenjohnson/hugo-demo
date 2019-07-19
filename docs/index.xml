@@ -30,7 +30,7 @@ code  </description>
       
       <guid>http://hansenjohnson.github.io/hugo-demo/posts/a-second-post/</guid>
       <description>Whatever content you want:
-(google)[https://google.com/]</description>
+google</description>
     </item>
     
   </channel>
